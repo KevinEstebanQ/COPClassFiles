@@ -21,3 +21,4 @@ public class Task1 {
         System.out.println(findDominant(arr).toString());
     }
 }
+//change
